@@ -1,0 +1,12 @@
+body {
+        background-color:cornsilk;
+      }
+hr {
+        border-style: dotted none none;
+        border-width: 10px;
+        height: 0px;
+        width: 10%;
+    }
+h1 {
+        color: rgb(232, 240, 119);
+   }
